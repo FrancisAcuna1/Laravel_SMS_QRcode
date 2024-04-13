@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+}
+
+#form-box{
+    background-color: white;
+    max-width: 70%;
+}
+
+#message{
+    height: 150px;
+}
+
+
+label{
+    font-size: 18px;
+    font-weight: 450;
+}
+
+h2{
+    font-weight: bold;
+}
+
